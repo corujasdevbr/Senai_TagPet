@@ -177,23 +177,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin.DIGIPROD\\.nuget\\packages\\": {},
+    "C:\\Users\\fernando.henrique\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin.DIGIPROD\\Documents\\Pessoal\\aulas_backend\\ProjetoSistema\\Senai.TagPet.Solucao\\Senai.TagPet.Dominio\\Senai.TagPet.Dominio.csproj",
+      "projectUniqueName": "c:\\Users\\fernando.henrique\\Documents\\backend\\SistemaSenai\\Senai_TagPet\\Senai.TagPet.Dominio\\Senai.TagPet.Dominio.csproj",
       "projectName": "Senai.TagPet.Dominio",
-      "projectPath": "C:\\Users\\admin.DIGIPROD\\Documents\\Pessoal\\aulas_backend\\ProjetoSistema\\Senai.TagPet.Solucao\\Senai.TagPet.Dominio\\Senai.TagPet.Dominio.csproj",
-      "packagesPath": "C:\\Users\\admin.DIGIPROD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin.DIGIPROD\\Documents\\Pessoal\\aulas_backend\\ProjetoSistema\\Senai.TagPet.Solucao\\Senai.TagPet.Dominio\\obj\\",
+      "projectPath": "c:\\Users\\fernando.henrique\\Documents\\backend\\SistemaSenai\\Senai_TagPet\\Senai.TagPet.Dominio\\Senai.TagPet.Dominio.csproj",
+      "packagesPath": "C:\\Users\\fernando.henrique\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\fernando.henrique\\Documents\\backend\\SistemaSenai\\Senai_TagPet\\Senai.TagPet.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin.DIGIPROD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fernando.henrique\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
